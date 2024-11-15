@@ -243,9 +243,7 @@ footer {
 
 ```
 ## OUTPUT :
-
-![Screenshot (194)](https://github.com/user-attachments/assets/32ea328d-417f-4dcd-a589-d9ce5b718d09)
-
+![Food Menu](https://github.com/user-attachments/assets/dbca30db-dbab-48bb-910e-0ce9ec0df02e)
 
 ## RESULT :
 The program for designing software company website using HTML and CSS is completed successfully.
